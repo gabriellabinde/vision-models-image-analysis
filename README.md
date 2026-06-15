@@ -65,7 +65,7 @@ code/
 └── image_retrieval_query.m
 
 report/
-└── TP_Vision_Models_Report.pdf
+└── project_report.pdf
 ```
 
 ## Skills Demonstrated
