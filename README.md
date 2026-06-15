@@ -1,6 +1,3 @@
-# vision-models-image-analysis
-Image analysis and retrieval using Gabor filters, Fourier transforms, and log-polar descriptors in MATLAB.
-
 # Vision Models – Image Analysis and Retrieval
 
 This repository contains a series of image processing and computer vision experiments developed in MATLAB as part of a Cognitive Sciences Master's course.
